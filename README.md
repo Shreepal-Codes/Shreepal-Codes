@@ -1,1 +1,1 @@
-# GG 2
+Flutter dev who turns ideas into clean, scalable apps. Comfortable with Firebase, real-time systems, and building smooth user experiences. Curious about algorithms, AI-driven features, and solving real problems with simple, efficient code.
