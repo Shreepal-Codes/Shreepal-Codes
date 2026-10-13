@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-Shreepal--Codes-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-238636?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity focus" />
-  <img src="https://img.shields.io/badge/Also-Building%20CS%20Projects-0969DA?style=for-the-badge&logo=codeforces&logoColor=white" alt="Computer Science projects" />
+  <img src="https://img.shields.io/badge/Also-Computer%20Science-0969DA?style=for-the-badge&logo=codeforces&logoColor=white" alt="Computer Science" />
 </p>
 
 ---
@@ -20,10 +20,10 @@ Hey! I'm a Computer Science student interested in **cybersecurity, security oper
 
 I'm working toward SOC Analyst L1 readiness while continuing to build and document Computer Science projects. My goal is to understand how systems work, how they fail, and how defenders detect and investigate suspicious activity.
 
-- **Cybersecurity:** networking, security fundamentals, log analysis, and incident response.
-- **Computer Science:** application development, databases, and problem-solving.
-- **Current mission:** build hands-on skills, document evidence, and develop a portfolio that demonstrates what I can actually do.
-- **Approach:** learn the fundamentals, practice in authorized labs, investigate the results, and document the findings.
+- **Cybersecurity:** Networking, security fundamentals, log analysis, and incident response.
+- **Computer Science:** Application development, databases, programming, and problem-solving.
+- **Current mission:** Build practical skills, document evidence, and develop a portfolio that demonstrates what I can do.
+- **Approach:** Learn the fundamentals, practice in authorized labs, investigate the results, and document the findings.
 
 ```bash
 $ ./mission.sh
@@ -41,9 +41,9 @@ $ ./mission.sh
 
 **Building my SOC portfolio**
 
-My security portfolio will focus on practical, reproducible work rather than tool lists alone.
+My security portfolio focuses on practical, reproducible work rather than tool lists alone.
 
-Planned areas include:
+Areas I'm working toward include:
 
 - Network traffic analysis with Wireshark.
 - Windows and Linux log investigation.
@@ -51,48 +51,52 @@ Planned areas include:
 - Detection rules and MITRE ATT&CK mapping.
 - Incident reports with timelines, evidence, and remediation recommendations.
 
-*Status: In progress. Individual labs and results will be linked here as they are completed.*
+*Status: In progress. I'll link individual labs and findings here as I complete and document them.*
 
 ### Computer Science
 
 | Project | Overview |
 |---|---|
-| [Sambandha](https://github.com/Shreepal-Codes/-Sambandha) | Team-based dating application project. |
-| [FixIt](https://github.com/Shreepal-Codes/FixIt) | Service marketplace application project. |
-| KarmaX | Gamified adaptive life-problem-solving project. A public repository link will be added after verification. |
+| [Sambandha](https://github.com/Shreepal-Codes/-Sambandha) | Collaborative dating application project. |
+| [FixIt](https://github.com/Shreepal-Codes/FixIt) | Location-based service marketplace application project. |
+| KarmaX | Gamified adaptive life-problem-solving project. Repository link to be added after verification. |
 
-These projects represent collaborative development work. Repository documentation will identify my contributions accurately.
+These projects represent collaborative development work. I'll document my contributions accurately rather than claim ownership of work completed by teammates.
 
 ## `$ cat learning_stack.txt`
 
-**Cybersecurity — learning and practicing**
+### Cybersecurity — Learning and Practicing
 
-`Networking` · `Windows Security` · `Linux` · `Wireshark` · `SIEM` · `Log Analysis` · `Incident Response` · `MITRE ATT&CK`
+`Networking` · `Linux` · `Windows Security` · `Wireshark` · `Log Analysis` · `SIEM` · `Incident Response` · `MITRE ATT&CK`
 
-**Development — project experience**
+### Programming Languages
+
+`Dart` · `C` · `C++` · `Python`
+
+### Development Tools and Technologies
 
 `Flutter` · `Firebase` · `Git` · `GitHub`
 
-**Scripting — gradual development**
+### Scripting — Developing Practical Skills
 
-`PowerShell` · `Bash` · `Python` · `Regular Expressions`
+`Python` · `Bash` · `PowerShell`
 
-*The security tools and scripting topics above describe my learning focus, not a claim of professional proficiency in every item.*
+*These represent technologies I've worked with or am learning. My proficiency varies by technology, and I'm continuing to improve through practice.*
 
 ## `$ git status`
 
 ```text
-Branch: main
-Profile: cybersecurity + computer science
-Priority: hands-on learning and documented evidence
-Next: publish practical security investigations
+Profile: Cybersecurity + Computer Science
+Current goal: SOC Analyst L1 preparation
+Priority: Hands-on learning and documented evidence
+Next step: Publish practical security investigations
+Status: Always learning
 ```
 
 ## `$ neofetch`
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreepal-Codes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreepal-Codes&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages on GitHub" />
 </p>
 
 <p align="center">
